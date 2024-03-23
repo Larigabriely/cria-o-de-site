@@ -1,8 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 cabeçalho {
     background-color: blueviolet;
     color: white
     display: flex;
     justify-content: space-around;
+    padding: 24px 0;
 } 
     
     .cabeçalho-imagem{
@@ -10,4 +15,5 @@ cabeçalho {
 }
 .cabeçalho-lista-item {
     display: inline-block;
+    margin: 0 16;
 }
