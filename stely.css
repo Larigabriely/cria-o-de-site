@@ -18,3 +18,10 @@ cabeçalho {
     margin: 0 16;
     font-size: 24px;
 }
+.lua-imagem {
+    width: 25%;
+}
+.lua {
+    background-image: linear-gradient(blueviolet,rgb(236, 65, 222));
+    color: white;
+}
