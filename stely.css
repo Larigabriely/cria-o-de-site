@@ -25,4 +25,11 @@ cabeçalho {
     background-image: linear-gradient(blueviolet,rgb(236, 65, 222));
     color: white;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.lua-div-conteudo {
+    width: 35%;
 }
