@@ -24,4 +24,5 @@ cabeçalho {
 .lua {
     background-image: linear-gradient(blueviolet,rgb(236, 65, 222));
     color: white;
+    display: flex;
 }
