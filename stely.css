@@ -3,7 +3,7 @@
     padding: 0;
 }
 cabeçalho {
-    background-color: blueviolet;
+    background-color: rgb(41, 93, 206);
     color: white
     display: flex;
     justify-content: space-around;
@@ -22,7 +22,7 @@ cabeçalho {
     width: 25%;
 }
 .lua {
-    background-image: linear-gradient(blueviolet,rgb(236, 65, 222));
+    background-image: linear-gradient(rgb(41, 93, 206),rgb(58, 150, 211));
     color: white;
     display: flex;
     justify-content: center;
