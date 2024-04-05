@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 cabeçalho {
     background-color: rgb(41, 93, 206);
     color: white
@@ -11,16 +12,13 @@ cabeçalho {
 } 
     
     .cabeçalho-imagem{
-     width: 10px;
+     width: 5px;
 }
-.cabeçalho-lista-item {
-    display: inline-block;
-    margin: 0 16;
-    font-size: 24px;
-}
+
 .lua-imagem {
-    width: 10px;
+    width: 25px;
 }
+
 .lua {
     background-image: linear-gradient(rgb(41, 93, 206),rgb(58, 150, 211));
     color: white;
