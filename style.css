@@ -1,9 +1,9 @@
 *{
-    margin: 0;
+    margin: 1;
     padding: 0;
 }
 
-cabeçalho {
+.cabeçalho {
     background-color: rgb(41, 93, 206);
     color: white
     display: flex;
@@ -11,7 +11,7 @@ cabeçalho {
     padding: 24px 0;
 } 
     
-    .cabeçalho-imagem{
+.cabeçalho-imagem{
      width: 25px;
 }
 
